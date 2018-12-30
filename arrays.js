@@ -10,3 +10,4 @@ function addElementToBeginningOfArray(array, arg) {
 function destructivelyAddElementToBeginningOfArray(array, arg) {
   
 }
+
